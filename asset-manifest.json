@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mern-stack-blog-app/client/static/css/main.d6d5fa34.css",
-    "main.js": "/mern-stack-blog-app/client/static/js/main.e8eab88d.js",
-    "static/js/787.4661a663.chunk.js": "/mern-stack-blog-app/client/static/js/787.4661a663.chunk.js",
-    "index.html": "/mern-stack-blog-app/client/index.html",
-    "main.d6d5fa34.css.map": "/mern-stack-blog-app/client/static/css/main.d6d5fa34.css.map",
-    "main.e8eab88d.js.map": "/mern-stack-blog-app/client/static/js/main.e8eab88d.js.map",
-    "787.4661a663.chunk.js.map": "/mern-stack-blog-app/client/static/js/787.4661a663.chunk.js.map"
+    "main.css": "/mern-stack-blog-app/static/css/main.d6d5fa34.css",
+    "main.js": "/mern-stack-blog-app/static/js/main.f49db92b.js",
+    "static/js/787.4661a663.chunk.js": "/mern-stack-blog-app/static/js/787.4661a663.chunk.js",
+    "index.html": "/mern-stack-blog-app/index.html",
+    "main.d6d5fa34.css.map": "/mern-stack-blog-app/static/css/main.d6d5fa34.css.map",
+    "main.f49db92b.js.map": "/mern-stack-blog-app/static/js/main.f49db92b.js.map",
+    "787.4661a663.chunk.js.map": "/mern-stack-blog-app/static/js/787.4661a663.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6d5fa34.css",
-    "static/js/main.e8eab88d.js"
+    "static/js/main.f49db92b.js"
   ]
 }
